@@ -1,6 +1,6 @@
-## Hi, I'm Guilherme
+## Hi, I'm Guilherme 👋
 
-## I'm a student at UFMG and developer at [Melhor Plano](https://melhorplano.net)
+## I'm a student📕 at UFMG and software developer💻 at [Melhor Plano](https://melhorplano.net)
 
 ## Connect with me:
 
@@ -9,7 +9,7 @@
 
 </br>
 
-### My most used (and loved) languages and tools:
+### My most used (and ❤) languages and tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
