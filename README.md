@@ -1,6 +1,6 @@
 ## Hi, I'm Guilherme 👋
 
-## I'm a student📕 at UFMG and software developer💻 at [Melhor Plano](https://melhorplano.net)
+## I'm a student📕 at UFMG and software developer💻 at [T10 Digital](https://t10.digital/)
 
 ## Connect with me:
 
