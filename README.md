@@ -21,6 +21,8 @@ Latelly i've been learning more about functional programming with Elixir and Res
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Nextjs" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 <img align="left" alt="Rescript" width="26px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+rescript-1324451472506448992.png" />
+<img align="left" alt="Elixir" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
+
 </br>
 
 
