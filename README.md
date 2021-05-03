@@ -1,12 +1,16 @@
 ## Hi, I'm Guilherme
 
-I'm a software engineer @[T10 Digital](https://t10.digital/) and a student.
+I'm a software engineer @[T10](https://t10.digital/) and a student.
+
+Latelly i've been learning more about functional programming with Elixir and Rescript.
 
 ## Connect with me:
+<a href="https://www.linkedin.com/in/guilherme-luiz-lara-silva-9a7158162">
+<img align="center" alt="LinkedIn" height="20px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white&logoWidth=20"/>
 
-[<img align="left" alt="guilhermells.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://guilhermeluiz.dev)
-[<img align="left" alt="guilherme luiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/guilherme-luiz-lara-silva-9a7158162/)
-[<img align="left" alt="guilherme luiz | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />](mailto:guiluizls@gmail.com)
+<a href="mailto:guiluizls@gmail.com">
+<img align="center" alt="Email" height="20px" src="https://img.shields.io/static/v1?label=email&message=guiluizls@gmail.com&color=orange&logoWidth=20"/>
+  
 
 </br>
 
@@ -18,7 +22,7 @@ I'm a software engineer @[T10 Digital](https://t10.digital/) and a student.
 <img align="left" alt="Nextjs" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 <img align="left" alt="Rescript" width="26px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+rescript-1324451472506448992.png" />
 </br>
----
+
 
 </br>
 
