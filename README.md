@@ -5,7 +5,7 @@ I'm a software engineer @[T10](https://t10.digital/) and a student.
 Latelly i've been learning more about functional programming with Elixir and Rescript.
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/guilherme-luiz-lara-silva-9a7158162">
+<a href="https://www.linkedin.com/in/guilherme-luiz-9a7158162/">
 <img align="center" alt="LinkedIn" height="20px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white&logoWidth=20"/>
 
 <a href="mailto:guiluizls@gmail.com">
