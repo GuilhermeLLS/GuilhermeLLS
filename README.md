@@ -27,6 +27,4 @@ Latelly i've been learning more about functional programming with Elixir and Res
 
 
 </br>
-
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermells&layout=compact&hide=c,makefile,c%2B%2B)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermells&layout=compact&hide=c,makefile,c%2B%2B)](https://github.com/guilhermells/github-readme-stats)
