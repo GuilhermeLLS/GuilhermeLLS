@@ -2,7 +2,7 @@
 
 I'm a software engineer @[T10](https://t10.digital/) and a student.
 
-Latelly i've been learning more about functional programming with Elixir and Rescript.
+Latelly i've been learning more about Rescript and Blockchains.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/guilherme-luiz-9a7158162/">
