@@ -1,6 +1,6 @@
 ## Hi, I'm Guilherme
 
-I'm a software engineer @[T10](https://t10.digital/) and a student.
+I'm a software engineer @[soraschools](https://soraschools.com/) and a student.
 
 Latelly i've been learning more about Rescript and Blockchains.
 
