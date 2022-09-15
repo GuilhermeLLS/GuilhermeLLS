@@ -23,7 +23,3 @@ Latelly i've been learning more about Web Standards, Architecture and SQL.
 <img align="left" alt="Rescript" width="26px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+rescript-1324451472506448992.png" />
 
 </br>
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermells&layout=compact&hide=c,makefile,c%2B%2B,standardml)](https://github.com/guilhermells/github-readme-stats)
