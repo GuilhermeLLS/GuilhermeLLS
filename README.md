@@ -2,7 +2,7 @@
 
 I'm a software engineer @[soraschools](https://soraschools.com/) and a student.
 
-Latelly i've been learning more about Web Standards, Architecture and SQL.
+Latelly i've been learning more about Web Standards, Design Patterns and Flutter.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/guilherme-luiz-9a7158162/">
