@@ -1,6 +1,6 @@
 ## Hi, I'm Guilherme
 
-I'm a software engineer @[soraschools](https://soraschools.com/) and a student.
+I'm a software engineer @ [soraschools](https://soraschools.com/) and a student.
 
 Latelly i've been learning more about Web Standards, Design Patterns and Flutter.
 
