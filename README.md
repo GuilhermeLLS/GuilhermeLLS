@@ -1,4 +1,5 @@
-## Hi, I'm Guilherme
+## Hi, I'm Gui
+
 
 I'm a software engineer @ [soraschools](https://soraschools.com/) and a student.
 
