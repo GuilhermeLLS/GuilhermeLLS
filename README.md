@@ -1,7 +1,7 @@
 ## Hi, I'm Gui
 
 
-I'm a software engineer @ [soraschools](https://soraschools.com/) and a student.
+I'm a Brazil 🇧🇷 based software engineer @ [soraschools](https://soraschools.com/) and hold a bachelor's degree in Information Systems.
 
 Latelly i've been learning more about Web Standards, Design Patterns and Flutter.
 
@@ -22,6 +22,5 @@ Latelly i've been learning more about Web Standards, Design Patterns and Flutter
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Remix" width="26px" src="https://remix.run/img/og.1.jpg" />
 <img align="left" alt="Nextjs" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
-<img align="left" alt="Rescript" width="26px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+rescript-1324451472506448992.png" />
 
 </br>
