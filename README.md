@@ -1,9 +1,8 @@
 ## Hi, I'm Gui
 
 
-I'm a Brazil 🇧🇷 based software engineer @ [soraschools](https://soraschools.com/) and hold a bachelor's degree in Information Systems.
+Software engineer @ [soraschools](https://soraschools.com/) 
 
-Latelly i've been learning more about Web Standards, Design Patterns and Flutter.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/guilherme-luiz-9a7158162/">
